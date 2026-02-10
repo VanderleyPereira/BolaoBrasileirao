@@ -1,0 +1,14 @@
+﻿@model List<Rodada>
+
+<h2>Rodadas</h2>
+
+<a asp-action="Create">Nova Rodada</a>
+
+@foreach (var r in Model)
+{
+    <div>
+        Rodada @r.Numero <br />
+        Valor: R$ @r.Valor <br />
+        Fecha em: @r.DataLimite
+    </div>
+}

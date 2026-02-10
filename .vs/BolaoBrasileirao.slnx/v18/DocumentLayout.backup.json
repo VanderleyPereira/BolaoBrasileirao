@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vanderleypereira\\source\\repos\\BolaoBrasileirao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18695A2F-A3E0-73D7-ECCD-25FB7F387901}|BolaoBrasileirao\\BolaoBrasileirao.csproj|c:\\users\\vanderleypereira\\source\\repos\\bolaobrasileirao\\bolaobrasileirao\\models\\rodada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18695A2F-A3E0-73D7-ECCD-25FB7F387901}|BolaoBrasileirao\\BolaoBrasileirao.csproj|solutionrelative:bolaobrasileirao\\models\\rodada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18695A2F-A3E0-73D7-ECCD-25FB7F387901}|BolaoBrasileirao\\BolaoBrasileirao.csproj|c:\\users\\vanderleypereira\\source\\repos\\bolaobrasileirao\\bolaobrasileirao\\views\\rodadas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18695A2F-A3E0-73D7-ECCD-25FB7F387901}|BolaoBrasileirao\\BolaoBrasileirao.csproj|solutionrelative:bolaobrasileirao\\views\\rodadas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18695A2F-A3E0-73D7-ECCD-25FB7F387901}|BolaoBrasileirao\\BolaoBrasileirao.csproj|c:\\users\\vanderleypereira\\source\\repos\\bolaobrasileirao\\bolaobrasileirao\\controllers\\rodadascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18695A2F-A3E0-73D7-ECCD-25FB7F387901}|BolaoBrasileirao\\BolaoBrasileirao.csproj|solutionrelative:bolaobrasileirao\\controllers\\rodadascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18695A2F-A3E0-73D7-ECCD-25FB7F387901}|BolaoBrasileirao\\BolaoBrasileirao.csproj|c:\\users\\vanderleypereira\\source\\repos\\bolaobrasileirao\\bolaobrasileirao\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18695A2F-A3E0-73D7-ECCD-25FB7F387901}|BolaoBrasileirao\\BolaoBrasileirao.csproj|solutionrelative:bolaobrasileirao\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18695A2F-A3E0-73D7-ECCD-25FB7F387901}|BolaoBrasileirao\\BolaoBrasileirao.csproj|c:\\users\\vanderleypereira\\source\\repos\\bolaobrasileirao\\bolaobrasileirao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18695A2F-A3E0-73D7-ECCD-25FB7F387901}|BolaoBrasileirao\\BolaoBrasileirao.csproj|solutionrelative:bolaobrasileirao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18695A2F-A3E0-73D7-ECCD-25FB7F387901}|BolaoBrasileirao\\BolaoBrasileirao.csproj|c:\\users\\vanderleypereira\\source\\repos\\bolaobrasileirao\\bolaobrasileirao\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18695A2F-A3E0-73D7-ECCD-25FB7F387901}|BolaoBrasileirao\\BolaoBrasileirao.csproj|solutionrelative:bolaobrasileirao\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18695A2F-A3E0-73D7-ECCD-25FB7F387901}|BolaoBrasileirao\\BolaoBrasileirao.csproj|c:\\users\\vanderleypereira\\source\\repos\\bolaobrasileirao\\bolaobrasileirao\\bolaobrasileirao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{18695A2F-A3E0-73D7-ECCD-25FB7F387901}|BolaoBrasileirao\\BolaoBrasileirao.csproj|solutionrelative:bolaobrasileirao\\bolaobrasileirao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18695A2F-A3E0-73D7-ECCD-25FB7F387901}|BolaoBrasileirao\\BolaoBrasileirao.csproj|c:\\users\\vanderleypereira\\source\\repos\\bolaobrasileirao\\bolaobrasileirao\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18695A2F-A3E0-73D7-ECCD-25FB7F387901}|BolaoBrasileirao\\BolaoBrasileirao.csproj|solutionrelative:bolaobrasileirao\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vanderleypereira\\source\\repos\\BolaoBrasileirao\\BolaoBrasileirao\\Views\\Rodadas\\Index.cshtml",
+              "RelativeDocumentMoniker": "BolaoBrasileirao\\Views\\Rodadas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vanderleypereira\\source\\repos\\BolaoBrasileirao\\BolaoBrasileirao\\Views\\Rodadas\\Index.cshtml",
+              "RelativeToolTip": "BolaoBrasileirao\\Views\\Rodadas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-10T13:45:13.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RodadasController.cs",
+              "DocumentMoniker": "C:\\Users\\vanderleypereira\\source\\repos\\BolaoBrasileirao\\BolaoBrasileirao\\Controllers\\RodadasController.cs",
+              "RelativeDocumentMoniker": "BolaoBrasileirao\\Controllers\\RodadasController.cs",
+              "ToolTip": "C:\\Users\\vanderleypereira\\source\\repos\\BolaoBrasileirao\\BolaoBrasileirao\\Controllers\\RodadasController.cs",
+              "RelativeToolTip": "BolaoBrasileirao\\Controllers\\RodadasController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T13:43:56.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vanderleypereira\\source\\repos\\BolaoBrasileirao\\BolaoBrasileirao\\Program.cs",
+              "RelativeDocumentMoniker": "BolaoBrasileirao\\Program.cs",
+              "ToolTip": "C:\\Users\\vanderleypereira\\source\\repos\\BolaoBrasileirao\\BolaoBrasileirao\\Program.cs",
+              "RelativeToolTip": "BolaoBrasileirao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T13:41:25.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vanderleypereira\\source\\repos\\BolaoBrasileirao\\BolaoBrasileirao\\appsettings.json",
+              "RelativeDocumentMoniker": "BolaoBrasileirao\\appsettings.json",
+              "ToolTip": "C:\\Users\\vanderleypereira\\source\\repos\\BolaoBrasileirao\\BolaoBrasileirao\\appsettings.json",
+              "RelativeToolTip": "BolaoBrasileirao\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-10T13:41:01.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rodada.cs",
+              "DocumentMoniker": "C:\\Users\\vanderleypereira\\source\\repos\\BolaoBrasileirao\\BolaoBrasileirao\\Models\\Rodada.cs",
+              "RelativeDocumentMoniker": "BolaoBrasileirao\\Models\\Rodada.cs",
+              "ToolTip": "C:\\Users\\vanderleypereira\\source\\repos\\BolaoBrasileirao\\BolaoBrasileirao\\Models\\Rodada.cs",
+              "RelativeToolTip": "BolaoBrasileirao\\Models\\Rodada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T13:38:12.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vanderleypereira\\source\\repos\\BolaoBrasileirao\\BolaoBrasileirao\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BolaoBrasileirao\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\vanderleypereira\\source\\repos\\BolaoBrasileirao\\BolaoBrasileirao\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BolaoBrasileirao\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T13:39:41.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BolaoBrasileirao",
+              "DocumentMoniker": "C:\\Users\\vanderleypereira\\source\\repos\\BolaoBrasileirao\\BolaoBrasileirao\\BolaoBrasileirao.csproj",
+              "RelativeDocumentMoniker": "BolaoBrasileirao\\BolaoBrasileirao.csproj",
+              "ToolTip": "C:\\Users\\vanderleypereira\\source\\repos\\BolaoBrasileirao\\BolaoBrasileirao\\BolaoBrasileirao.csproj",
+              "RelativeToolTip": "BolaoBrasileirao\\BolaoBrasileirao.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-10T13:25:07.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\vanderleypereira\\source\\repos\\BolaoBrasileirao\\BolaoBrasileirao\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BolaoBrasileirao\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\vanderleypereira\\source\\repos\\BolaoBrasileirao\\BolaoBrasileirao\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BolaoBrasileirao\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T13:21:56.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

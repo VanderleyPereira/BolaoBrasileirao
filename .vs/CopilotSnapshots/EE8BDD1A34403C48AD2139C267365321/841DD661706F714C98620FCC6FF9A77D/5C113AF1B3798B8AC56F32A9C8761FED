@@ -1,0 +1,16 @@
+﻿using Microsoft.AspNetCore.Mvc;
+
+public class RodadasController : Controller
+{
+    private readonly ApplicationDbContext _context;
+
+    public RodadasController(ApplicationDbContext context)
+    {
+        _context = context;
+    }
+
+    public IActionResult Index()
+    {
+        return View(_context.Rodadas.ToList());
+    }
+}
